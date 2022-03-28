@@ -6,3 +6,5 @@ jangan lupa extract asset.zip
 login
 username : ibnu salamah
 password : 123
+
+semoga aplikasinya bisa bermanfaat
